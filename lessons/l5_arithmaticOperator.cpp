@@ -1,6 +1,7 @@
 /////////////////////////////////contents//////////////////////////////////
 /*
-1. types of arithmatic Operator
+1. types of arithmatic Operator.
+2. This arithmatic operations always follows BODMAS rule.
 */
 
 #include <iostream>
